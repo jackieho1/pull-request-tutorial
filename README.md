@@ -14,7 +14,7 @@ process is imagining that you are mailing out a package to your friend.
 *1. Staging*  
 The first step is to stage your changes, which is represented by `git add`. This
 means that you'll be adding any modified file changes into your current repo.
-Git will about the change, but it won't be permanent in the global repository.
+Git will know about the change, but it won't be permanent in the global repository.
 
 Think of this step as adding all the items you are shipping into a box - you
 haven't made the permanent move to mail it out yet, but are staging it to be
