@@ -1,3 +1,47 @@
+# **FAQ for International Students**
+
+## Table of Contents
+### [Introduction to Hack Reactor](#intro)
+### [Travel Visas](#travel-visas)
+### [Work Visas](#work-visas)
+### [Outcomes for International Students](#outcomes)
+### [Community](#community)
+### [Touch Typing](#touch)
+
+
+* brief intro to a bootcamp for international students
+* Travel Visas (speak to formal HR grads)
+* Work Visas (H1B)
+* Outcomes for International Students (are there hiring partners elsewhere in the US)
+* Touch Typing/shortcuts/mats to cover your keyboard to switch boards (switch keyboard settings on laptop)
+* mention we have many international students
+* (add to lectures: talk about international students who have found jobs in the US)
+* create an email list/community group for international students
+
+### <a name="intro"></a> An Introduction to Hack Reactor
+blah blah blah
+
+### <a name="travel-visas"></a>Travel Visas
+All visitors coming in to the United States require a visa. A 3 month visa may not be sufficient as our program runs for 13 weeks long (12 learning weeks with 1 break week in the middle of the course). Missing any days can be considered a breach of contract, so we ask that you be mindful of how long you will be able to stay in the United States for.
+
+Please consult with an immigration lawyer to determine which visa you should be applying for. You may reach out to international Hack Reactor alumni for other tips.
+
+
+### <a name="work-visas"></a>Work Visas
+If you are an international student and would like to continue working in the United States after graduating from Hack Reactor, you must apply to a work visa or have a company sponsor you to legally work in the United States.
+
+Hack Reactor does not provide the resources to help individuals with work visas. Make sure to do your research and have a plan of action if you decide to work in the United States after graduation.
+
+### <a name="outcomes"></a>Outcomes for International Students
+Outcomes is
+
+### <a name="community"></a>Community
+International alumni will have access to an international alumni community once they graduate. We have several different Google Groups for students in vari
+
+### <a name="touch"></a>Touch Typing
+The United States uses the international keyboard for typing. If you would like to learn touch typing on the international keyboard, feel free to practice here:  https://www.typingclub.com/
+
+
 # pull-request-tutorial
 # Instructions for creating a PR (non-technical staff)
 
