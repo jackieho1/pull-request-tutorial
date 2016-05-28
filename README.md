@@ -70,7 +70,7 @@ your remote repo.
 12. Ask them to make a pull request (either the green icon or a button called '
 New pull request').  
 13. Creating a new PR will lead the student to a page that looks like this:
-  [image here]
+  [ ](http://i.imgur.com/j7jYdII.png?1)
   Make sure the student changes the base branch from "master" to their own branch.  
 14. Remind the students to add any necessary comments (it is in their README).
 Scroll down the page and submit the pull request.  
