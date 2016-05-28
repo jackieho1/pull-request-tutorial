@@ -11,7 +11,7 @@ There are three overarching steps for submitting a pull request. This section
 will serve as a quick overview on those three steps. A great comparison to this
 process is imagining that you are mailing out a package to your friend.
 
-*1. Staging*
+*1. Staging*  
 The first step is to stage your changes, which is represented by `git add`. This
 means that you'll be adding any modified file changes into your current repo.
 Git will about the change, but it won't be permanent in the global repository.
@@ -20,7 +20,7 @@ Think of this step as adding all the items you are shipping into a box - you
 haven't made the permanent move to mail it out yet, but are staging it to be
 shipped.
 
-*2. Committing*
+*2. Committing*  
 The second step is committing your changes, which is represented by `git commit`.
 This means that you are recording your changes to the history of your repository
 and writing a message to detail that change.
@@ -29,7 +29,7 @@ Think of this step as writing your shipping address to the box. You are
 recording the address of your shipment so the postman has a reference of where
 to ship it to, similar to recording your changes to your repo.
 
-*3. Pushing*
+*3. Pushing*  
 The third step is to push your changes, which is represented by `git push`.
 Staging and committing all happens locally (in your computer only).
 Pushing your changes means that you'll be making these changes globally so
@@ -41,14 +41,17 @@ pushing your changes, this ensures that your friend will receive your package.
 
 ## Instructions
 A student may require your help in making a pull request after their assessment.  
+
 1. Ask the student to go to their terminal and enter the repo they were working
 on.  
 2. Ask the student to do a `git status`  
 3. You should either see the following in the terminal:  
+
     - "Nothing to commit..." Make sure they've saved their file. Do another `git
 status`  
     - "Changes to commit..." (go to step 9)  
     - "Changes not staged for commit" (go to step 4)  
+
 4. If the student has not staged their changes, ask them to to a `git add [FILE-NAME]`
  or a `git add .` to add *all* files.  
 5. Ask the student to do a `git status`. You should now see "Changes to be
