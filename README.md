@@ -46,12 +46,10 @@ A student may require your help in making a pull request after their assessment.
 on.  
 2. Ask the student to do a `git status`  
 3. You should either see the following in the terminal:  
-
     - "Nothing to commit..." Make sure they've saved their file. Do another `git
 status`  
     - "Changes to commit..." (go to step 9)  
     - "Changes not staged for commit" (go to step 4)  
-
 4. If the student has not staged their changes, ask them to to a `git add [FILE-NAME]`
  or a `git add .` to add *all* files.  
 5. Ask the student to do a `git status`. You should now see "Changes to be
